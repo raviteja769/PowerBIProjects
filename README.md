@@ -1,3 +1,3 @@
 # PowerBIProjects
 
-Link to the report: https://app.powerbi.com/groups/me/reports/c5f19214-3054-4ccf-9567-977f53963416/94205631d2ee4045fa6f?experience=power-bi
+Link to the report: https://app.powerbi.com/links/342CJBYeEN?ctid=de4d4b47-a8a8-40e4-97b1-5a5ecaec1c18&pbi_source=linkShare&bookmarkGuid=0105e983-3872-47cd-b8e3-2bd34baa556f
